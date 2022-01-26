@@ -1,0 +1,48 @@
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--v-surface-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--v-scrollbarThumb-base);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--v-scrollbarThumbHover-base);
+}
+
+::-webkit-scrollbar-corner {
+  background: var(--v-surface-base);
+}
+
+.v-navigation-drawer__border {
+  background-color: transparent !important;
+}
+
+.v-tabs-items {
+  background-color: transparent !important;
+}
+
+.v-item-group.v-bottom-navigation--shift .v-btn--active .v-btn__content > .v-icon {
+  border-radius: 16px;
+  color: var(--v-onSecondaryContainer-base);
+  background-color: var(--v-secondaryContainer-base);
+  width: 64px;
+  height: 32px;
+}
+
+.m3-navigation-bar {
+  height: 80px !important;
+  box-shadow: none !important;
+  background-color: var(--v-elevation2-base) !important;
+}
+
+.v-navigation-drawer--mini-variant .v-list-item {
+  -webkit-box-pack: left !important;
+  -ms-flex-pack: left !important;
+  justify-content: left !important;
+}
