@@ -3,5 +3,10 @@
         "name": "arrow_to_search",
         "title": "Arrow back to search",
         "tag": "action"
+    },
+    {
+        "name": "home_variant_to_selected",
+        "title": "Home variant to selected",
+        "tag": "action"
     }
 ]

@@ -1,0 +1,20 @@
+{
+    "title": "Home variant to selected",
+    "source": [
+        {
+            "name": "Home variant outline",
+            "url": "https://materialdesignicons.com/icon/home-variant-outline"
+        },
+        {
+            "name": "Home variant filled",
+            "url": "https://materialdesignicons.com/icon/home-variant"
+        }
+    ],
+    "info": [
+        {
+            "duration": 400,
+            "style": 2,
+            "date": "[01] 29, 2022"
+        }
+    ]
+}
